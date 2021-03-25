@@ -14,3 +14,5 @@ Technologies :
 - MQTT
 - Node-red
 
+Vidéo de démonstration : https://docs.google.com/file/d/1iixeDdhY-IydmeA4nmyLMQpG6PBg2pMY/preview
+
